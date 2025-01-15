@@ -1,7 +1,5 @@
-Hi there! 👋 I’m Babalola Olalekan Olawale (iambabs11)
-
-Welcome to my GitHub portfolio! I’m a Quality Assurance Engineer with a passion for software testing and continuous learning. My professional background spans across quality assurance, hospitality management, and barista artistry. Here’s a bit about my journey and the projects I’ve worked on:
-
+Welcome to my GitHub portfolio!
+I’m a Quality Assurance Engineer with a passion for software testing and continuous learning. My professional background focuses on quality assurance, including manual and automation testing. Here, you’ll find a collection of my projects, bug reports, test cases, and learning progress as I develop my skills in tools like Postman, JMeter, Selenium, and Playwright.
 🛠️ Technical Skills & Tools
 
 	•	Software Testing: Manual Testing, API Testing with Postman
