@@ -44,3 +44,64 @@ I’m passionate about sharing knowledge. Check out my LinkedIn for blogs on sof
 📈 Career Goals
 
 I’m currently seeking opportunities to grow as a QA Engineer or Software Tester, and I’m committed to mastering automation and coding.
+
+
+---
+
+ Prerequisites
+	•	Python 3.8+
+	•	Google Chrome
+	•	ChromeDriver (matching Chrome version)
+	•	pytest, selenium, webdriver-manager
+	•	Postman desktop app (for API testing)
+
+⸻
+
+📝 Notes & Observations
+
+✅ Passed Scenarios:
+	•	Login (standard_user)
+	•	Cart operations (add/remove items)
+	•	Filter sorting
+	•	Checkout flow
+	•	API requests returned valid responses
+
+Bugs Found:
+
+Bug ID
+Description
+Severity
+BUG01
+Broken product images for problem_user
+Medium
+BUG02
+Slow cart badge update after multiple clicks
+Low
+BUG03
+Weak visual feedback on failed login
+Low-Medium
+BUG04
+No visual confirmation after “Reset App State”
+Medium
+
+   Suggestions:
+	•	Add fallback for broken product images
+	•	Show better error feedback on failed login
+	•	Improve form validation and cart badge accuracy
+	•	Add confirmation after resetting app state
+
+⸻
+
+   Blockers or Limitations
+	•	problem_user intentionally triggers UI glitches—some cannot be automated reliably.
+	•	Reset App State action shows no response; unsure if backend is called.
+	•	No official API for SauceDemo; /users endpoint used from Petstore sample instead.
+
+Author
+
+Babalola Olalekan Olawale
+QA Engineer
+📫 iambabs9@gmail.com
+📍 Lagos, Nigeria
+
+
